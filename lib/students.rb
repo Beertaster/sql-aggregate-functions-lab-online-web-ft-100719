@@ -11,9 +11,9 @@ end
 def average_student_gpa
   SELECT AVG(gpa) FROM stuents;
 end
-
-def total_tardies_for_all_students
   
+def total_tardies_for_all_students
+  SELECT 
 end
 
 def average_gpa_for_9th_grade
